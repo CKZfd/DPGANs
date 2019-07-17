@@ -4,7 +4,9 @@
 In this paper, Detail Perceptual Generative Adversarial Networks (DP-GANs) is proposed for single image de-raining. It consists of two convolutional neural networks (CNN): the rain streaks generative network G and the discriminative network D. To reduce the background interference, a rain streaks generative network is proposed, which not only focuses on the high frequency detail map of rainy image, but also directly reduces the mapping range from input to output. To further improve the perceptual quality of generated images, the perceptual loss is modified by extracting high-level features from discriminative network D, rather than pre-trained networks. Extensive
 experiments on the synthetic and real-world datasets demonstrate that the proposed method achieves significant improvements over the recent state-of-the-art methods.
 
-https://github.com/CKZfd/DPGANs/blob/master/imgs/network2.jpg
+![Network](https://github.com/CKZfd/DPGANs/blob/master/imgs/network2.jpg)
+
+
 # Install
 git clone https://github.com/CKZfd/DPGANs or Download it.
 
