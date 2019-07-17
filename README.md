@@ -5,6 +5,8 @@ In this paper, Detail Perceptual Generative Adversarial Networks (DP-GANs) is pr
 experiments on the synthetic and real-world datasets demonstrate that the proposed method achieves significant improvements over the recent state-of-the-art methods.
 
 ![Network](https://github.com/CKZfd/DPGANs/blob/master/imgs/network2.jpg)
+![results](https://github.com/CKZfd/DPGANs/blob/master/imgs/1.jpg)
+
 
 
 # Install
