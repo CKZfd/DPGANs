@@ -22,6 +22,8 @@ run python training_data.py and python testing_data.py to generate our dataset a
 python main_DPGANs.py --dataroot ./facades/rainydataset/training --valDataroot ./facades/rainydataset/val
 
 # Test
+python test.py --testDataroot ./facades/rainydataset/testing
+python test_nature.py --testDataroot ./facades/rainydataset/test_nature
 
 
 
