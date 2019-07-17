@@ -23,6 +23,7 @@ python main_DPGANs.py --dataroot ./facades/rainydataset/training --valDataroot .
 
 # Test
 python test.py --testDataroot ./facades/rainydataset/testing
+
 python test_nature.py --testDataroot ./facades/rainydataset/test_nature
 
 
